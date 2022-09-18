@@ -1,6 +1,6 @@
-### REALTIME CHATE WITH USERS AND ROOMS
+# REALTIME CHATE WITH USERS AND ROOMS
 
-# VSCODE EXTENSION
+### VSCODE EXTENSION
 - Material theme
 - Material icon theme
 - Prettier
@@ -9,5 +9,5 @@
 - Auto rename tag
 - json pretty printer(ctrl + shift + j)
 
-# YOUTUBE
+### YOUTUBE
 - https://www.youtube.com/watch?v=jD7FnbI76Hg&ab_channel=TraversyMedia
