@@ -1,5 +1,14 @@
 # REALTIME CHATE WITH USERS AND ROOMS
 
+### TECHNOLOGY USED
+- Socket.io
+- Node.js
+- Express
+
+### NPM INSTALL
+- npm install express socket.io moment
+- npm install -D nodemon
+
 ### VSCODE EXTENSION
 - Material theme
 - Material icon theme
